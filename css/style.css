@@ -1,11 +1,11 @@
-#contact{
-    background-image: url('../img/city.jpg');
-    background-size:cover;
-    color:black;
+#contact {
+  background-image: url("../img/city.jpg");
+  background-size: cover;
+  color: black;
 }
-#email{
-    max-width:200px;
-  }
-#hobbies{
-    color:black;
+#email {
+  max-width: 200px;
+}
+#hobbies {
+  color: black;
 }
